@@ -37,19 +37,16 @@ To run this application, you'll need:
 
 1. Clone this repository:
 
-   ```sh
    git clone https://github.com/your-username/TakeThis-Note-Taker.git
    cd note-taker-web-app
 
 Install the required dependencies:
 
-sh
-Copy code
+
 npm install
 Start the server:
 
-sh
-Copy code
+
 node index.js
 The application should now be running locally at http://localhost:3000.
 
